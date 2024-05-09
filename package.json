@@ -1,6 +1,6 @@
 {
   "name": "@zestia/ember-select-box",
-  "version": "15.3.0",
+  "version": "15.3.3",
   "description": "A faux select box for Ember apps",
   "directories": {
     "doc": "doc",
@@ -73,8 +73,9 @@
     "webpack": "^5.44.0"
   },
   "dependencies": {
-    "@ember/render-modifiers": "^1.0.2",
-    "@embroider/util": "^0.43.0",
+    "@ember/render-modifiers": "^2.0.4",
+    "@ember/string": "^3.1.1",
+    "@embroider/util": "^1.2.0",
     "@glimmer/component": "^1.0.4",
     "@glimmer/tracking": "^1.0.4",
     "ember-cli-babel": "^7.26.6",
